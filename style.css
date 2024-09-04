@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+  background-image: url(background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -55,3 +55,4 @@ p {
     width: 100%;
     box-shadow: -4px 0px 4px red;
 }
+
